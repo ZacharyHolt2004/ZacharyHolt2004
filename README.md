@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small open source projects.
 - 📫 How to reach me: ztholt2004@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to work on and drive cars on the weekends.
+- ⚡ Fun fact: I am an amateur photographer.
 
 <!---
 ZacharyHolt2004/ZacharyHolt2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
